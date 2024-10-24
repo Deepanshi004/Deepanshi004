@@ -1,45 +1,39 @@
-<h2 align="left">Hi 👋! My name is Deepanshi Gupta and I'm an Android Developer.</h2>
+# Hi there! 👋
 
-###
+## I'm Deepanshi Gupta
+I'm a passionate **Android Developer** currently pursuing my **Bachelor's in Computer Science & Engineering**. I enjoy building mobile applications and exploring the latest technologies in **AI/ML** and **web development**.
 
+### 🔧 Technologies & Tools
+- **Languages**: Java, Kotlin, Python, JavaScript
+- **Frameworks**: Android SDK, TensorFlow Lite, Firebase
+- **Databases**: SQLite, Room, Firebase Firestore
+- **Web Technologies**: HTML, CSS, Node.js (basic knowledge)
+
+### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshigupta2304&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshigupta2304&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshigupta2304&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepanshigupta2304&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+### 🌱 Currently Learning
+- Advanced Android Development
+- AI/ML Integration in Mobile Apps
+- Flutter for cross-platform development
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 🚀 Projects
+- **[Project Name 1](link-to-project)**: Brief description of what the project does and technologies used.
+- **[Project Name 2](link-to-project)**: Brief description of what the project does and technologies used.
+- **[Project Name 3](link-to-project)**: Brief description of what the project does and technologies used.
 
-###
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/deepanshigupta)
+- [Instagram](https://www.instagram.com/yourusername)
+- [YouTube](https://www.youtube.com/channel/yourchannel)
+- [Gmail](mailto:deepanshigupta2304@gmail.com)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" height="30" alt="xml logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
-
-<br clear="both">
-
+### 🐍 Snake Animation
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+---
+
+Feel free to customize this template further with your personal projects, experiences, and any other relevant information you want to showcase. Let me know if you need help with specific sections!
