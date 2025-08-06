@@ -109,6 +109,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> <br>
   <b>“Code is the canvas. Let your logic be the art.”</b>
 </p>
