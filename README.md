@@ -1,7 +1,11 @@
 <!-- Final-Year GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Deepanshi Gupta</h1>
-<h3 align="center">Android & MERN Stack Developer | Java Enthusiast | Passionate About Building Real-World Solutions</h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+  Hi, I'm Deepanshi Gupta
+</h1>
+
+<h3 align="center">Android & MERN Stack Developer | Java Enthusiast | Passionate About Real-World Solutions</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&center=true&width=435&lines=Android+Developer;MERN+Stack+Builder;Java+Programmer;UI%2FUX+Designer;Turning+Ideas+into+Apps" alt="Typing SVG" />
@@ -11,11 +15,11 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a final-year B.Tech CSE student passionate about building impactful tech solutions.  
-💡 I love solving real-world problems through mobile and web applications.  
-📱 Currently focusing on **Android (Java + XML)** and **MERN stack** development.  
-💼 Always open to **internship or project collaboration opportunities** in full-stack and mobile development.  
-🎯 Constantly exploring better UI/UX practices and contributing to clean, maintainable code.
+🎓 Final-year B.Tech CSE student  
+💡 Love building user-centric mobile and web apps  
+📲 Focused on **Android Development (Java + XML)** and **MERN stack**  
+🎨 UI/UX Design with Figma  
+🤝 Open for **internships, collaborations**, and **tech communities**
 
 ---
 
@@ -38,50 +42,63 @@
 
 ## 🚀 Featured Projects
 
-### 🔗 [🌐 Portfolio Website](https://github.com/Deepanshi004/PortfolioWebsiteDeepanshi004.github.io)
-A clean, responsive portfolio website built using HTML & CSS.  
-📍 **Highlights:** GitHub Pages Deployment, Mobile-Responsive UI, Project Showcases
+### 🌐 [Portfolio Website](https://github.com/Deepanshi004/PortfolioWebsiteDeepanshi004.github.io)
+> A clean, responsive portfolio website showcasing my work  
+🌟 GitHub Pages deployment | 📱 Fully mobile-optimized
 
 ---
 
-### ☀️ [🌦️ WeatherApplication](https://github.com/Deepanshi004/WeatherApplication)
-Android app that fetches real-time weather using the OpenWeatherMap API.  
-📱 **Features:** Clean design, city-wise search, API integration
+### 📲 [Weather Application](https://github.com/Deepanshi004/WeatherApplication)
+> Android app displaying real-time weather using OpenWeatherMap API  
+🔍 City-wise weather search | 🌦️ Simple UI | 📡 API Integration
 
 ---
 
-### 🧩 [💼 MyFullStackApp](https://github.com/Deepanshi004/MyFullStackApp)
-Hybrid full-stack app combining Java with the MERN stack for CRUD operations.  
-🛠️ **Tech:** MongoDB, Node.js, Express, Java
+### 🖥️ [MyFullStackApp](https://github.com/Deepanshi004/MyFullStackApp)
+> A hybrid CRUD app combining **Java + MERN stack**  
+⚙️ MongoDB | Node.js | Java | Frontend to backend flow practice
 
 ---
 
-### 📋 [🧭 Internship Portal Modules](https://github.com/Deepanshi004/AddingInternship)  
-Secure Java-based module for adding internship listings, integrated with validation and form handling.
+### 📋 [Internship Portal Backend](https://github.com/Deepanshi004/AddingInternship)  
+🔐 Java-based backend module for adding internships with secure validation
 
-📲 [Frontend Internship Search](https://github.com/Deepanshi004/iNTERNSHIPSEARCHSCREEN) – Android UI for dynamic internship listings.
+### 📲 [Internship Search Frontend](https://github.com/Deepanshi004/iNTERNSHIPSEARCHSCREEN)  
+🧭 Android UI to browse and filter internships dynamically
+
+---
+
+### 🧩 [E-Kote Application](https://github.com/Deepanshi004/E-koteApplication)
+> ✨ An innovative Android app prototype for smooth event management and voting  
+🗳️ User-friendly UI | 💚 Real-time updates | 🔒 Secure login system
+
+---
+
+### 💰 Finance Management App (Private)
+> A mobile app for managing daily expenses, budgeting & charts  
+📊 Visual reports | 🧾 Expense logging | 📱 Android (Java + Firebase)
 
 ---
 
 ## 🌱 Currently Working On
 
-- 📲 Publishing an Android app on Play Store  
-- ⚙️ Custom views, RecyclerViews, and Fragments in Android  
-- 🌐 Enhancing React & MongoDB integration  
-- 🎨 Prototyping UI/UX designs in Figma  
+- 📦 Android App Deployment on Play Store  
+- 🛠️ Reusable UI Components (Custom Views)  
+- 🌐 MERN Stack Integrations  
+- 🎨 Interactive UI/UX Prototypes with Figma  
 
 ---
 
 ## 🎯 Career Goals
 
-- 💼 Land a full-time developer role or internship in mobile/web development  
-- 📱 Release at least 2 fully functional apps on the Play Store  
-- 🤝 Contribute to open-source and community-driven projects  
-- 🌟 Build a strong developer portfolio with impactful work
+- ✅ Launch at least 2 full-fledged apps on the Play Store  
+- 🤝 Join a dynamic team as a mobile or full-stack developer  
+- 🧠 Strengthen my DSA and system design concepts  
+- 🌍 Contribute to meaningful open-source and community tech projects  
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:deepanshigupta2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -91,4 +108,7 @@ Secure Java-based module for adding internship listings, integrated with validat
 
 ---
 
-<p align="center"><b>“Code is the canvas. Let your logic be the art.”</b></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <b>“Code is the canvas. Let your logic be the art.”</b>
+</p>
