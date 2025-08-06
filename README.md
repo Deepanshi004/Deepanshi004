@@ -42,41 +42,47 @@
 
 ## 🚀 Featured Projects
 
-### 🌐 [Portfolio Website](https://github.com/Deepanshi004/PortfolioWebsiteDeepanshi004.github.io)
-> A clean, responsive portfolio website showcasing my work  
-🌟 GitHub Pages deployment | 📱 Fully mobile-optimized
+### 🌐 [Portfolio Website](https://github.com/Deepanshi004/PortfolioWebsiteDeepanshi004.github.io) — _template-based (not originally mine)_
+> This is a **customized version of a pre-built portfolio template**, used to showcase my projects and skills.  
+> All styling and layout were adapted for personal branding.
+
+📁 Based on a template | 🎨 Personalized content and style | 🌐 Deployed via GitHub Pages | 📱 Fully responsive design
 
 ---
 
-### 📲 [Weather Application](https://github.com/Deepanshi004/WeatherApplication)
-> Android app displaying real-time weather using OpenWeatherMap API  
-🔍 City-wise weather search | 🌦️ Simple UI | 📡 API Integration
+### 📲 [Weather Application](https://github.com/Deepanshi004/WeatherApplication) — _minor project_
+> Android app showing real-time weather using OpenWeatherMap API  
+🔍 City-wise search | 🌦️ Minimal UI | 📡 API Integration
 
 ---
 
-### 🖥️ [MyFullStackApp](https://github.com/Deepanshi004/MyFullStackApp)
-> A hybrid CRUD app combining **Java + MERN stack**  
-⚙️ MongoDB | Node.js | Java | Frontend to backend flow practice
+### 🔧 [MyFullStackApp](https://github.com/Deepanshi004/MyFullStackApp) — _minor project_
+> Hybrid CRUD app using **Java + MERN stack**  
+⚙️ Full-stack practice | 📚 MongoDB + Node.js + React
 
 ---
 
-### 📋 [Internship Portal Backend](https://github.com/Deepanshi004/AddingInternship)  
-🔐 Java-based backend module for adding internships with secure validation
-
-### 📲 [Internship Search Frontend](https://github.com/Deepanshi004/iNTERNSHIPSEARCHSCREEN)  
-🧭 Android UI to browse and filter internships dynamically
+### 📋 [Internship Portal Backend](https://github.com/Deepanshi004/AddingInternship) — _small module_
+> Java-based backend module to manage internships  
+🛡️ Form validation | 📤 REST API support
 
 ---
 
-### 🧩 [E-Kote Application](https://github.com/Deepanshi004/E-koteApplication)
-> ✨ An innovative Android app prototype for smooth event management and voting  
-🗳️ User-friendly UI | 💚 Real-time updates | 🔒 Secure login system
+### 🧭 [Internship Search Frontend](https://github.com/Deepanshi004/iNTERNSHIPSEARCHSCREEN) — _small module_
+> Android UI for internship discovery and filtering  
+📲 List & detail view | 🔍 Intuitive UX
 
 ---
 
-### 💰 Finance Management App (Private)
-> A mobile app for managing daily expenses, budgeting & charts  
-📊 Visual reports | 🧾 Expense logging | 📱 Android (Java + Firebase)
+### 🧩 [E-Kote Application](https://github.com/Deepanshi004/E-koteApplication) — _major project_
+> Android app for event coordination and voting  
+🗳️ User-friendly interface | 🔒 Secure login | 🔄 Real-time updates
+
+---
+
+### 🗳️ [Voting System](https://github.com/Deepanshi004/VotingSystem) — _major ongoing_
+> Secure Java-based voting system for digital polls  
+🧠 Core logic focus | 🕵️ Admin/User roles | 🔐 Authentication system
 
 ---
 
