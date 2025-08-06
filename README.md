@@ -1,103 +1,94 @@
-<!-- README for Deepanshi004 -->
+<!-- Final-Year GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Deepanshi Gupta</h1>
-<h3 align="center">Aspiring Android & MERN Developer | Java Enthusiast | Building Functional Apps</h3>
+<h3 align="center">Android & MERN Stack Developer | Java Enthusiast | Passionate About Building Real-World Solutions</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&width=435&lines=Android+Developer;MERN+Stack+Enthusiast;Java+Programmer;UI%2FUX+Lover;Building+Real+World+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7931E&center=true&width=435&lines=Android+Developer;MERN+Stack+Builder;Java+Programmer;UI%2FUX+Designer;Turning+Ideas+into+Apps" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 About Me
+
+🎓 I'm a final-year B.Tech CSE student passionate about building impactful tech solutions.  
+💡 I love solving real-world problems through mobile and web applications.  
+📱 Currently focusing on **Android (Java + XML)** and **MERN stack** development.  
+💼 Always open to **internship or project collaboration opportunities** in full-stack and mobile development.  
+🎯 Constantly exploring better UI/UX practices and contributing to clean, maintainable code.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-0D47A1?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 📁 All Public Repositories
+## 🚀 Featured Projects
 
-### 🌐 [PortfolioWebsiteDeepanshi004.github.io](https://github.com/Deepanshi004/PortfolioWebsiteDeepanshi004.github.io)
-A personal portfolio website made using HTML and CSS to showcase my projects and skills.  
-🌟 Clean UI and deployed via GitHub Pages.
-
----
-
-### 🌦️ [WeatherApplication](https://github.com/Deepanshi004/WeatherApplication)
-A simple Android app to display real-time weather data using OpenWeatherMap API.  
-📍 Features: City-wise search, clean design, and responsive layout.
+### 🔗 [🌐 Portfolio Website](https://github.com/Deepanshi004/PortfolioWebsiteDeepanshi004.github.io)
+A clean, responsive portfolio website built using HTML & CSS.  
+📍 **Highlights:** GitHub Pages Deployment, Mobile-Responsive UI, Project Showcases
 
 ---
 
-### 💼 [MyFullStackApp](https://github.com/Deepanshi004/MyFullStackApp)
-A full-stack Java-based app using MongoDB and Node.js for managing CRUD operations.  
-🛠️ MERN stack + Java hybrid integration practice.
+### ☀️ [🌦️ WeatherApplication](https://github.com/Deepanshi004/WeatherApplication)
+Android app that fetches real-time weather using the OpenWeatherMap API.  
+📱 **Features:** Clean design, city-wise search, API integration
 
 ---
 
-### 🎯 [AddingInternship](https://github.com/Deepanshi004/AddingInternship)
-Backend module of the Internship Portal – allows admins to add internship data securely.  
-🔐 Java-based with form and data validation.
+### 🧩 [💼 MyFullStackApp](https://github.com/Deepanshi004/MyFullStackApp)
+Hybrid full-stack app combining Java with the MERN stack for CRUD operations.  
+🛠️ **Tech:** MongoDB, Node.js, Express, Java
 
 ---
 
-### 🧭 [iNTERNSHIPSEARCHSCREEN](https://github.com/Deepanshi004/iNTERNSHIPSEARCHSCREEN)
-Frontend internship search interface to view listings dynamically.  
-📲 Optimized for user experience with Java and Android components.
+### 📋 [🧭 Internship Portal Modules](https://github.com/Deepanshi004/AddingInternship)  
+Secure Java-based module for adding internship listings, integrated with validation and form handling.
+
+📲 [Frontend Internship Search](https://github.com/Deepanshi004/iNTERNSHIPSEARCHSCREEN) – Android UI for dynamic internship listings.
 
 ---
 
-### 📢 [Deepanshi004](https://github.com/Deepanshi004/Deepanshi004)
-This is the readme repository that you’re viewing right now!  
-✨ Contains my profile introduction, projects, and GitHub stats.
+## 🌱 Currently Working On
+
+- 📲 Publishing an Android app on Play Store  
+- ⚙️ Custom views, RecyclerViews, and Fragments in Android  
+- 🌐 Enhancing React & MongoDB integration  
+- 🎨 Prototyping UI/UX designs in Figma  
 
 ---
 
-## 🌱 Currently Exploring
+## 🎯 Career Goals
 
-- 🔹 Advanced Android: Fragments, Custom Views, RecyclerViews  
-- 🔹 Full-Stack Development with MERN  
-- 🔹 UI/UX design and tools like Figma  
-
----
-
-## 🎯 Goals
-
-- 🚀 Publish my first app on the Play Store  
-- 📦 Deploy full-stack projects with real-world use  
-- 🤝 Contribute to meaningful open-source projects  
+- 💼 Land a full-time developer role or internship in mobile/web development  
+- 📱 Release at least 2 fully functional apps on the Play Store  
+- 🤝 Contribute to open-source and community-driven projects  
+- 🌟 Build a strong developer portfolio with impactful work
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Let's Connect!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepanshi004&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepanshi004&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:deepanshigupta2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:deepanshigupta2304@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/deepanshigupta2304/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Deepanshi004"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Deepanshi004"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-> *"Turning lines of code into impactful solutions."*
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Deepanshi004.Deepanshi004" alt="visitors" />
-</p>
+<p align="center"><b>“Code is the canvas. Let your logic be the art.”</b></p>
